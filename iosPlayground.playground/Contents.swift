@@ -2,4 +2,6 @@ import UIKit
 
 var str = "Hello, playground"
 
-let mas = [1, 4, 5]
+var mas = [1, 4, 5]
+
+mas.append(7)
