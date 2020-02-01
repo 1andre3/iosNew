@@ -9,3 +9,5 @@ mas.append(7)
 for index in mas {
   print(index)
 }
+
+let d = 11
